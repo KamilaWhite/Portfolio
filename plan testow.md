@@ -50,11 +50,11 @@ Funkcjonalność przycisku “top”.
 Tagi: Archiwum i Wydarzenia.
 Zapisanie się do subskrypcji.
 Przetestowanie zakładki kontaktowej.
-###2.4.	Test interfejsu użytkownika
+### 2.4.	Test interfejsu użytkownika
 Weryfikacja istnienia interfejsu do wszystkich przypadków użycia.
 Weryfikacja zgodności stron WWW ze standardami W3C.
 Zapewnienie przejrzystego i przyjaznego interfejsu użytkownika. 
-###2.5.	Test Zamawiającego
+### 2.5.	Test Zamawiającego
 Ten test jest planowany i wykonywany przez Zamawiającego lub osobę przez niego wyznaczona. Zapewnia, że Aplikacja pracuje zgodnie z oczekiwaniami i spełnia postawione wymagania.
  
 ## 3. Obsługa zgłoszeń
