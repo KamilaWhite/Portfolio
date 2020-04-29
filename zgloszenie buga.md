@@ -1,4 +1,4 @@
-#### Zgłoszenie błędu - Zadanie nr 1 Cherry-IT
+# Zgłoszenie błędu - Zadanie nr 1 Cherry-IT
  
 **Tytuł zgłoszenia:** Naciśnięcie boxu „Kursy” lub „Współpraca”na stronie głównej Cherry-IT powodują refresh strony, nie prowadzą na docelowe podstrony
 
