@@ -6,21 +6,21 @@
  
 ## Spis treści
 
-## 1. Wstęp	3
-### 1.1. Cel dokumentu	3
-### 1.2. Załączniki	3
-## 2. Planowany proces testowy	3
-### 2.1. Podmiot testów	3
-### 2.2. Podejście do procesu testowego	3
-### 2.3. Funkcjonalności do przetestowania	3
-### 2.4. Test interfejsu użytkownika	4
-### 2.5. Test Zamawiającego	4
-## 3. Obsługa zgłoszeń	4
-### 3.1. Procedura zgłoszenia błędu	4
-### 3.2. Klasyfikacja błędu	4
-### 3.3. Szczegóły zgłoszenia błędu	4
-## 4. Środowisko testowe	4
-## 5. Raportowanie	5
+## 1. Wstęp
+### 1.1. Cel dokumentu
+### 1.2. Załączniki
+## 2. Planowany proces testowy
+### 2.1. Podmiot testów
+### 2.2. Podejście do procesu testowego
+### 2.3. Funkcjonalności do przetestowania
+### 2.4. Test interfejsu użytkownika
+### 2.5. Test Zamawiającego
+## 3. Obsługa zgłoszeń
+### 3.1. Procedura zgłoszenia błędu
+### 3.2. Klasyfikacja błędu
+### 3.3. Szczegóły zgłoszenia błędu
+## 4. Środowisko testowe
+## 5. Raportowanie
 
  
 
