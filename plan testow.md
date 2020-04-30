@@ -24,7 +24,7 @@
 
 ## 1.	Wstęp
 Celem tego dokumentu jest nakreślenie ogólnego zarysu testów, sprawdzających poprawność funkcjonowania aplikacji Cherry-IT.pl. W tym dokumencie zostały określone obszary wymagające sprawdzenia. Plan testów, został stworzony na potrzeby realizacji Zadania dodatkowego zleconego przez Inicjatywy Cherry-IT. Opis zadania został określony i opublikowany na tablicy Trello w projekcie “Zadania dodatkowe Cherry-IT”.
- ### 1.1.	Cel dokumentu
+### 1.1.	Cel dokumentu
 Faza testowania ma dowieść, że stworzona aplikacja spełnia wymagania funkcjonalne, jest przejrzysta i intuicyjna dla użytkownika. Wyniki testów zostaną przedstawione w postaci pisemnego Raportu z testów.
  ### 1.2.	Załączniki 
 1. Przypadek testowy: Sprawdzenie wpisu z 29.03 w kalendarzu - Tabela zawierająca przypadek testowy z poszczególnymi krokami do wykonania.
