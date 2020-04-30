@@ -2,6 +2,10 @@
  
 **Tytuł zgłoszenia:** Naciśnięcie boxu „Kursy” lub „Współpraca”na stronie głównej Cherry-IT powodują refresh strony, nie prowadzą na docelowe podstrony
 
+**Priorytet:** Wysoki
+
+**Środowisko:** Środowisko: macOS Catalina wersja 10.15.3, przeglądarka: Chrome Wersja 80.0.3987.149
+
 **Opis:**
 Będąc na stronie głównej Cherry-IT, klikając w box „Kursy” lub „Współpraca” adres URL pozostaje ten sam, a strona nie przekierowuje nas na żądaną podstronę. Jedyną widoczną akcją jest refresh strony.
 
