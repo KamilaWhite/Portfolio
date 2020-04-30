@@ -27,6 +27,7 @@ Uzasadnienie wybranego buga: Znajdujące się na stronie głównej elementy w kt
 Uzasadnienie wybranego narzędzia: Do zgłoszenia błędu wybrałam Trello. Jest profesjonalnych narzędzi o szerokim spektrum zwłaszcza po dodaniu odpowiednich wtyczek. Może godnie posłużyć jako bugtracker. Dodatkowym plusem, a zarazem minusem jest to że jest bezpłatne i ogólnodostępne. Jednak śledzenie prowadzonych prac na konkretnym zgłoszeniu są przejrzyste. Narzędzie posiada wiele przydatnych pól, które przy odpowiedniej konfiguracji można wykorzystać bez obawy, pominięcia ważnych informacji jakie powinny znaleźć się w zgłoszeniu błędu. Jako że obie jesteśmy uczestniczkami projekt i jesteśmy w „społeczności” Trello odnalezienie się i spółdzielnie konkretnego projektu jest najbardziej efektywne.
 
 **Załączniki:**
+
 ![https://github.com/KamilaWhite/Projects/blob/master/Zrzut%20ekranu%202020-03-28%20o%2023.06.01.png?raw=true](https://github.com/KamilaWhite/Projects/blob/master/Zrzut%20ekranu%202020-03-28%20o%2023.06.01.png?raw=true)
 
 > Screen buga
