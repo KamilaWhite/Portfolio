@@ -1,7 +1,4 @@
 # Plan testów
-[TOCM]
-
-[TOC]
  
 **Kamila Biel**
 8 kwietnia 2020
@@ -24,7 +21,7 @@
 ## 4. Środowisko testowe
 ## 5. Raportowanie
 
- 
+[TOC] 
 
 ## 1.	Wstęp
 Celem tego dokumentu jest nakreślenie ogólnego zarysu testów, sprawdzających poprawność funkcjonowania aplikacji Cherry-IT.pl. W tym dokumencie zostały określone obszary wymagające sprawdzenia. Plan testów, został stworzony na potrzeby realizacji Zadania dodatkowego zleconego przez Inicjatywy Cherry-IT. Opis zadania został określony i opublikowany na tablicy Trello w projekcie “Zadania dodatkowe Cherry-IT”.
