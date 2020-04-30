@@ -26,3 +26,5 @@ Uzasadnienie wybranego buga: Znajdujące się na stronie głównej elementy w kt
 
 Uzasadnienie wybranego narzędzia: Do zgłoszenia błędu wybrałam Trello. Jest profesjonalnych narzędzi o szerokim spektrum zwłaszcza po dodaniu odpowiednich wtyczek. Może godnie posłużyć jako bugtracker. Dodatkowym plusem, a zarazem minusem jest to że jest bezpłatne i ogólnodostępne. Jednak śledzenie prowadzonych prac na konkretnym zgłoszeniu są przejrzyste. Narzędzie posiada wiele przydatnych pól, które przy odpowiedniej konfiguracji można wykorzystać bez obawy, pominięcia ważnych informacji jakie powinny znaleźć się w zgłoszeniu błędu. Jako że obie jesteśmy uczestniczkami projekt i jesteśmy w „społeczności” Trello odnalezienie się i spółdzielnie konkretnego projektu jest najbardziej efektywne.
 
+**Załączniki:**
+![](https://drive.google.com/drive/folders/1nMmufFyHY_CUoWiFODgorqbf6I4Em9xS)
