@@ -28,6 +28,6 @@ Uzasadnienie wybranego narzędzia: Do zgłoszenia błędu wybrałam Trello. Jest
 
 **Załączniki:**
 
-![https://github.com/KamilaWhite/Projects/blob/master/Zrzut%20ekranu%202020-03-28%20o%2023.06.01.png?raw=true](https://github.com/KamilaWhite/Projects/blob/master/Zrzut%20ekranu%202020-03-28%20o%2023.06.01.png?raw=true)
+!![https://github.com/KamilaWhite/Projects/blob/master/images/Zrzut%20ekranu%202020-03-28%20o%2023.06.01.png](https://github.com/KamilaWhite/Projects/blob/master/images/Zrzut%20ekranu%202020-03-28%20o%2023.06.01.png)
 
 > Screen buga
