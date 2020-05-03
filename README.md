@@ -1,5 +1,8 @@
 # Projects
- **My name is Kamilla Biel. Working with people has always been my passion. I am a confident person, open to new contacts and new experiences. At work and everyday life I am guided by diligence, meticulousness and I am characterized by inquisitiveness. As a mother, I am very patient and assertive, possessing a lot of empathy. I am looking for an employer who will give me the opportunity to spread my wings. I hope this project will illustrate some of my skills, knowledge and experience.**
+ ## Who am I?
+ **My name is Kamilla. Working with people has always been my passion. I am a confident person, open to new contacts and new experiences. At work and everyday life I am guided by diligence, meticulousness and I am characterized by inquisitiveness. As a mother, I am very patient and assertive, possessing a lot of empathy. I am looking for an employer who will give me the opportunity to spread my wings. 
+ 
+ I hope this project will illustrate some of my skills, knowledge and experience.**
 
 # Spis plików
 ## [Analizy](https://github.com/KamilaWhite/Projects/blob/master/projects/analizy.md)
