@@ -6,3 +6,6 @@
 ## [Plan testów](https://github.com/KamilaWhite/Projects/blob/master/projects/plan%20testow.md)
 ## [Pzypadek testowy](https://github.com/KamilaWhite/Projects/blob/master/projects/przypadek%20testowy.md)
 ## [Zgłoszenie buga](https://github.com/KamilaWhite/Projects/blob/master/projects/zgloszenie%20buga.md)
+## [Certyfikaty i szkolenia]
+[Zostań testerem](https://github.com/KamilaWhite/Projects/blob/master/images/Diplomas/Certyfikat-Zosta%C5%84%20Testerem.pdf)
+[Specjalność programista: Podstawy Pythona](https://github.com/KamilaWhite/Projects/blob/master/images/Diplomas/Certyfikat-Podstawy%20Pythona.pdf)
