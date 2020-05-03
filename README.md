@@ -1,6 +1,6 @@
 # Projects
  ## Kim jestem?
-Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą otwartą na nowe kontakty i nowe doświadczenia. W pracy i życiu codziennym kieruję się pracowitością, skrupulatnością oraz cechuje mnie dociekliwość. Jako mama, jestem osobą cierpliwą i asertywną, posiadającą wiele empatii. Szukam pracodawcy, który pozwoli mi na rozwinięcie skrzydeł.
+Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą otwartą na nowe kontakty i nowe doświadczenia. W pracy i życiu codziennym kieruję się pracowitością, skrupulatnością oraz cechuje mnie dociekliwość. Jako mama, jestem osobą cierpliwą i asertywną, posiadającą wiele empatii. Stosunkowo niedawno zainteresowałam się Branżą Testerską jednak bardzo wciągnęła mnie cała jej tematyka. Moja wiedza i doświadczenie nabiera co raz większego rozmachu, nie zadowalam się tym czego się już nauczyłam, ciągle chcę więcej.
  
  Mam nadzieję, że ten Projekt zobrazuje kilka z moich umiejętności, zbobytą wiedzę i doświadczenie.
 
