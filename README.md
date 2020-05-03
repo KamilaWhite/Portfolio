@@ -7,5 +7,5 @@
 ## [Pzypadek testowy](https://github.com/KamilaWhite/Projects/blob/master/projects/przypadek%20testowy.md)
 ## [Zgłoszenie buga](https://github.com/KamilaWhite/Projects/blob/master/projects/zgloszenie%20buga.md)
 ## Certyfikaty i szkolenia
-###[Zostań testerem](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%20i%20szkolenia/Certyfikat-Zosta%C5%84%20Testerem.pdf)
-###[Specjalność programista: Podstawy Pythona](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%20i%20szkolenia/Certyfikat-Podstawy%20Pythona.pdf)
+[Zostań testerem](https://github.com/KamilaWhite/Projects/blob/master/images/Diplomas/Certyfikat-Podstawy%20Pythona.pdf)
+[Specjalność programista: Podstawy Pythona](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%20i%20szkolenia/Certyfikat-Podstawy%20Pythona.pdf)
