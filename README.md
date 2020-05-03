@@ -1,8 +1,8 @@
 # Projects
- ## Who am I?
-My name is Kamilla. Working with people has always been my passion. I am a confident person, open to new contacts and new experiences. At work and everyday life I am guided by diligence, meticulousness and I am characterized by inquisitiveness. As a mother, I am very patient and assertive, possessing a lot of empathy. I am looking for an employer who will give me the opportunity to spread my wings.
+ ## Kim jestem?
+Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą otwartą na nowe kontakty i nowe doświadczenia. W pracy i życiu codziennym kieruję się pracowitością, skrupulatnością oraz cechuje mnie dociekliwość. Jako mama, jestem osobą cierpliwą i asertywną, posiadającą wiele empatii. Szukam pracodawcy, który pozwoli mi na rozwinięcie skrzydeł.
  
- I hope this project will illustrate some of my skills, knowledge and experience.
+ Mam nadzieję, że ten Projekt zobrazuje kilka z moich umiejętności, zbobytą wiedzę i doświadczenie.
 
 # Spis plików
 ## [Analizy](https://github.com/KamilaWhite/Projects/blob/master/projects/analizy.md)
