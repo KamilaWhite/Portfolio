@@ -5,7 +5,7 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
  Mam nadzieję, że ten Projekt zobrazuje kilka z moich umiejętności, zbobytą wiedzę i doświadczenie.
 
 # Moje projekty
-##[Trello - tablica organizacyjna tasków](https://trello.com/b/KqaXd9uY/moje-taski)
+## [Trello - tablica organizacyjna tasków](https://trello.com/b/KqaXd9uY/moje-taski)
 ## [Analizy](https://github.com/KamilaWhite/Projects/blob/master/projects/analizy.md)
 ## [Plan testów](https://github.com/KamilaWhite/Projects/blob/master/projects/plan%20testow.md)
 ## [Pzypadek testowy](https://github.com/KamilaWhite/Projects/blob/master/projects/przypadek%20testowy.md)
