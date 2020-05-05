@@ -1,4 +1,4 @@
-###Dodawanie artykułów do koszyka
+### Dodawanie artykułów do koszyka
                 
 Tytuł  | Warunki wstępne | Kroki | Oczekiwany rezultat
 ------------- | ------------- | --- | ---
