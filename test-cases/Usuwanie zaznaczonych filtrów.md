@@ -1,4 +1,4 @@
-###Usuwanie zaznaczonych filtrów
+### Usuwanie zaznaczonych filtrów
                 
 Tytuł  | Warunki wstępne | Kroki | Oczekiwany rezultat
 ------------- | ------------- | --- | ---
