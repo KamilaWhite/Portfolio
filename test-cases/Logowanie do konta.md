@@ -1,4 +1,4 @@
-###Logowanie do konta
+### Logowanie do konta
                   
 Tytuł  | Warunki wstępne | Kroki | Oczekiwany rezultat
 ------------- | ------------- | --- | ---
