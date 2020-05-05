@@ -1,4 +1,4 @@
-###Filtrowanie produktów
+### Filtrowanie produktów
                   
 Tytuł  | Warunki wstępne | Kroki | Oczekiwany rezultat
 ------------- | ------------- | --- | ---
