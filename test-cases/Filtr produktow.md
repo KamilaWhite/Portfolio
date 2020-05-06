@@ -1,4 +1,4 @@
-### Filtrowanie produktów
+### Filtr produktów
                   
 Tytuł  | Warunki wstępne | Kroki | Oczekiwany rezultat
 ------------- | ------------- | --- | ---
@@ -22,4 +22,4 @@ Filtrowanie skórzanego obuwia męskiego z wyprzedaży po marce i kolorze  | | |
 | | | 1. Kliknij "Sale%", a pod nim "Męskie"| Otwarta strona z wyprzedażami męskiego obuwia
 | | | 2. Z filtrów po lewej stronie wybierz Kolor: biały | Box z kolorem białym zaznaczony
 | | | 3. Wybierz Marka: adidas | Na stronie wyświetla się 6 par obuwia
-| | | 4. Wybierz materiał Skóra: skórzane | Strona nie wyświetla wybranego filtru, na stronie nie obuwia o wybranych kryteriach
+| | | 4. Wybierz materiał Skóra: skórzane | Strona nie wyświetla wybranego filtru, na stronie nie ma obuwia o wybranych kryteriach
