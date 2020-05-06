@@ -12,6 +12,7 @@ Użytkownik znajduje się na stronie https://www.deichmann.com/PL/pl/shop/welcom
 **STR:**
 
 **1.** W górnej belce strony kliknij “Moje konto”.
+
 **2.** Wypełnij pola wymagane w formularzu “Jestem nowym klientem”.
 **3.** W polu “Data urodzenia” wprowadź 01-01-2003. 
 **4.** Zaznacz checkbox regulaminu sklepu.
