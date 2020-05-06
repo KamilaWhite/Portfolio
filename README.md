@@ -16,7 +16,9 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
   - [Filtr produktów](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Filtr%20produktow.md)
   - [Usuwanie zaznaczonych filtrów](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Usuwanie%20zaznaczonych%20filtr%C3%B3w.md)
   - [Dodawanie artykułów do koszyka](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Dodawanie%20do%20koszyka.md)
-- **[Zgłoszenie błędu](https://github.com/KamilaWhite/Projects/blob/master/projects/zgloszenie%20buga.md)**
+- **[Zgłoszenia błędów sklepu deichmann.com](https://github.com/KamilaWhite/Projects/tree/master/projects/deichmann.md)**
+  - [Pole “ Data urodzenia” w rejestracji jest opcjonalna, decydując się na jej podanie klient musi mieć 18 lat](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/BR1.md) 
+  - () 
 
 ## Stosowane narzędzia
 - **Jira, Trello, Asana, TestLink** - Programy służące rejestrowaniu i zarządzaniu informacjami o błędach
