@@ -13,7 +13,7 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
 - **[Przypadki testowe](https://github.com/KamilaWhite/Projects/tree/master/test-cases)**
   - [Tworzenie konta użytkownika](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Tworzenie%20konta%20u%C5%BCytkownika.md)
   - [Logowanie do konta](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Logowanie%20do%20konta.md)
-  - [Filtrowanie artykułów](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Filtrowania.md)
+  - [Filtr produktów](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Filtr%20produktow.md)
   - [Usuwanie zaznaczonych filtrów](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Usuwanie%20zaznaczonych%20filtr%C3%B3w.md)
   - [Dodawanie artykułów do koszyka](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Dodawanie%20do%20koszyka.md)
 - **[Zgłoszenie błędu](https://github.com/KamilaWhite/Projects/blob/master/projects/zgloszenie%20buga.md)**
