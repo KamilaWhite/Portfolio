@@ -8,6 +8,7 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
 ## [Trello - tablica organizacyjna tasków](https://trello.com/invite/b/KqaXd9uY/2ff924e73d0745f08c3fb1eed9000a1a/moje-taski)
 ## [Analizy](https://github.com/KamilaWhite/Projects/blob/master/projects/analizy.md)
 ## [Plan testów](https://github.com/KamilaWhite/Projects/blob/master/projects/plan%20testow.md)
+## [Mapa myśli przypadków testowych](https://github.com/KamilaWhite/Projects/blob/master/images/Mapa%20przypadk%C3%B3w%20sklepu%20deichmann.jpg)
 ## [Przypadki testowe](https://github.com/KamilaWhite/Projects/tree/master/test-cases)
 - [Tworzenie konta użytkownika](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Tworzenie%20konta%20u%C5%BCytkownika.md)
 - [Logowanie do konta](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Logowanie%20do%20konta.md)
