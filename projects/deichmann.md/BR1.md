@@ -10,17 +10,13 @@
 Użytkownik znajduje się na stronie https://www.deichmann.com/PL/pl/shop/welcome.html
 
 
-**STR:**
+>**STR:**
 
-**/1.** W górnej belce strony kliknij “Moje konto”.
-
-**/2.** Wypełnij pola wymagane w formularzu “Jestem nowym klientem”.
-
-**3.** W polu “Data urodzenia” wprowadź 01-01-2003. 
-
-**4.** Zaznacz checkbox regulaminu sklepu.
-
-**5.** Kliknij “Zarejestruj teraz”.
+>**1.** W górnej belce strony kliknij “Moje konto”.
+>**2.** Wypełnij pola wymagane w formularzu “Jestem nowym klientem”.>
+>**3.** W polu “Data urodzenia” wprowadź 01-01-2003. 
+>**4.** Zaznacz checkbox regulaminu sklepu.
+>**5.** Kliknij “Zarejestruj teraz”.
 
 **Rzeczywisty rezultat:** Konto użytkownika nie zostaje utworzone, w formularzu pole “Data urodzenia” podświetla się na czerwono z informacją “Sprawdź datę urodzenia”.
 
