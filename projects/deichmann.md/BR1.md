@@ -1,19 +1,19 @@
-## Pole “ Data urodzenia” w rejestracji jest opcjonalna, decydując się na jej podanie klient musi mieć 18 lat
+# Pole “ Data urodzenia” w rejestracji jest opcjonalna, decydując się na jej podanie klient musi mieć 18 lat
 
-### Priorytet: 
+## Priorytet: 
 Wysoki
 
-### Środowisko testowe: 
+## Środowisko testowe: 
 macOS Catalina 10.15.3; Google Chrome Wersja 80.0.3987.122
 
-### Opis: 
+## Opis: 
 Podczas tworzenia konta nowego użytkownika w formularzy rejestracyjnym, pole “Data urodzenia” nie jest obowiązkowe do wprowadzenia. Decydując  się na jej podanie, rejestracja konta kończy się niepowodzeniem w przypadku wprowadzenia do pola “data urodzenia” rok 2003 i każdy kolejny w górę. Oznacza to że w przypadku wpisania Daty urodzenia osoba rejestrująca się musi mieć 18 lat. W regulaminie sklepu nie ma adnotacji do wieku osoby zakładającej konto. Jeśli taka adnotacja została przypadkowo pominięta w regulaminie to pole “Data urodzenia” podczas rejestracji nie może być opcjonalna.
 
-### Warunki wstępne: 
+## Warunki wstępne: 
 Użytkownik znajduje się na stronie https://www.deichmann.com/PL/pl/shop/welcome.html
 
 
-### STR:
+## STR:
 
 **1.** W górnej belce strony kliknij “Moje konto”.
 
@@ -25,13 +25,13 @@ Użytkownik znajduje się na stronie https://www.deichmann.com/PL/pl/shop/welcom
 
 **5.** Kliknij “Zarejestruj teraz”.
 
-### Rzeczywisty rezultat: 
+## Rzeczywisty rezultat: 
 Konto użytkownika nie zostaje utworzone, w formularzu pole “Data urodzenia” podświetla się na czerwono z informacją “Sprawdź datę urodzenia”.
 
-### Oczekiwany rezultat: 
+## Oczekiwany rezultat: 
 W przypadku opcjonalnej daty urodzenia aplikacja nie powinna blokować rejestracji użytkownika. Jeśli tylko osoby pełnoletnie mogą być klientami sklepu pole “Data urodzenia” musi być wymagana.
 
-### Załączniki:
+## Załączniki:
 
 [screen błędu](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/screen/Zrzut%20ekranu%202020-05-6%20o%2019.41.36.png)
 
