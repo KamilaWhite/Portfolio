@@ -4,7 +4,7 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
  Mam nadzieję, że ten Projekt zobrazuje kilka z moich umiejętności, zbobytą wiedzę i doświadczenie :blush:
 
 ## Moje projekty
-:fa-heart:**[Trello - tablica organizacyjna tasków](https://trello.com/invite/b/KqaXd9uY/2ff924e73d0745f08c3fb1eed9000a1a/moje-taski)**
+- **[Trello - tablica organizacyjna tasków](https://trello.com/invite/b/KqaXd9uY/2ff924e73d0745f08c3fb1eed9000a1a/moje-taski)**
 
 ## Moje dokumentacje
 - **[Analizy](https://github.com/KamilaWhite/Projects/blob/master/projects/analizy.md)**
@@ -38,7 +38,7 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
 - Opracowanie Planu Testów
 
 ## Certyfikaty i szkolenia
-- [Zostań testerem :fa-heart:](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%20i%20szkolenia/Certyfikat-Zosta%C5%84%20Testerem.pdf)
+- [Zostań testerem](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%20i%20szkolenia/Certyfikat-Zosta%C5%84%20Testerem.pdf)
 - [Specjalność programista: Podstawy Pythona](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%20i%20szkolenia/Certyfikat-Podstawy%20Pythona.pdf)
 
 ## Przeczytane książki
