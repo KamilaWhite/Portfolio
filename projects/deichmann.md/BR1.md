@@ -21,5 +21,5 @@ Użytkownik znajduje się na stronie https://www.deichmann.com/PL/pl/shop/welcom
 **Oczekiwany rezultat:** W przypadku opcjonalnej daty urodzenia aplikacja nie powinna blokować rejestracji użytkownika. Jeśli tylko osoby pełnoletnie mogą być klientami sklepu pole “Data urodzenia” musi być wymagana.
 
 **Załączniki:**
-[screen błędu]()
+[screen błędu](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/screen/Zrzut%20ekranu%202020-05-6%20o%2019.41.36.png)
 [screen regulaminu]()
