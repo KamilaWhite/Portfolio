@@ -1,4 +1,4 @@
-# Nieprawidłowa kształt ikony powiększającej grafikę w widoku Koszyka 
+# Nieprawidłowy kształt ikony powiększającej grafikę w zakładce Koszyk
  
 ## Priorytet:
 Niski
@@ -34,6 +34,6 @@ Ikona służąca powiększaniu zdjęcia ma kształt lupy.
 ## Załączniki:
  
  
-[Screen Ikony]()
+[Screen Ikony](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/screen/Zrzut%20ekranu%202020-05-7%20o%2019.30.02.png)
  
-[Screen klasy]()
+[Screen klasy](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/screen/Zrzut%20ekranu%202020-05-7%20o%2018.57.21.png)
