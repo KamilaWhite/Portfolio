@@ -3,10 +3,10 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
  
  Mam nadzieję, że ten Projekt zobrazuje kilka z moich umiejętności, zbobytą wiedzę i doświadczenie :blush:
 
-## Moje projekty
+## Projekty
 - **[Trello - tablica organizacyjna tasków](https://trello.com/invite/b/KqaXd9uY/2ff924e73d0745f08c3fb1eed9000a1a/moje-taski)**
 
-## Moje dokumentacje
+## Dokumentacje
 - **[Analizy](https://github.com/KamilaWhite/Projects/blob/master/projects/analizy.md)**
 - **[Plan testów](https://docs.google.com/document/d/1yeh8SXt_hrYrRttNccFTvDZxSRe1Pa9ceFSkbalVFtk/edit?usp=sharing)**
 - **[Mapa myśli przypadków testowych sklepu deichmann.com](https://github.com/KamilaWhite/Projects/blob/master/images/Mapa%20przypadk%C3%B3w%20sklepu%20deichmann.jpg)**
@@ -45,6 +45,13 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
 
 ## Przeczytane książki
 - [Radosław Smilgin "Zawód tester"](https://ksiegarnia.pwn.pl/Zawod-tester,138870798,p.html)
+- [Jeff Sutherland "Scrum Czyli jak robić dwa razy więcej dwa razy szybciej"](https://ksiegarnia.pwn.pl/Scrum-Czyli-jak-robic-dwa-razy-wiecej-dwa-razy-szybciej,114592110,p.html)
+
+## Webinary
+- Zawód Tester - Seria 20 podcastów
+- Software Development Academy - Dowiedz się jak zostać programistą Python
+- BTX - Jak zacząć naukę testowania backendu
+- Sii Polska - Automatyzacja testów UI aplikacji webowych
 
 ## Grupy na Facebook
 - Testowanie oprogramowania
@@ -58,8 +65,3 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
 - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 - [jakzostactesterem.pl](https://jakzostactesterem.pl/)
 
-## Webinary
-- Zawód Tester - Seria 20 podcastów
-- Software Development Academy - Dowiedz się jak zostać programistą Python
-- BTX - Jak zacząć naukę testowania backendu
-- Sii Polska - Automatyzacja testów UI aplikacji webowych
