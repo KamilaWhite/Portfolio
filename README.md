@@ -10,7 +10,7 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
 - **[Analizy](https://github.com/KamilaWhite/Projects/blob/master/projects/analizy.md)**
 - **[Plan testów](https://docs.google.com/document/d/1yeh8SXt_hrYrRttNccFTvDZxSRe1Pa9ceFSkbalVFtk/edit?usp=sharing)**
 - **[Mapa myśli przypadków testowych](https://github.com/KamilaWhite/Projects/blob/master/images/Mapa%20przypadk%C3%B3w%20sklepu%20deichmann.jpg)**
-- **[Przypadki testowe](https://github.com/KamilaWhite/Projects/tree/master/test-cases)**
+- **[Przypadki testowe](https://github.com/KamilaWhite/Projects/tree/master/projects/test-cases)**
   - [Tworzenie konta użytkownika](https://github.com/KamilaWhite/Projects/blob/master/projects/test-cases/Tworzenie%20konta%20u%C5%BCytkownika.md)
   - [Logowanie do konta](https://github.com/KamilaWhite/Projects/blob/master/projects/test-cases/Logowanie%20do%20konta.md)
   - [Filtr produktów](https://github.com/KamilaWhite/Projects/blob/master/projects/test-cases/Filtr%20produktow.md)
