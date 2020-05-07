@@ -11,11 +11,11 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
 - **[Plan testów](https://docs.google.com/document/d/1yeh8SXt_hrYrRttNccFTvDZxSRe1Pa9ceFSkbalVFtk/edit?usp=sharing)**
 - **[Mapa myśli przypadków testowych](https://github.com/KamilaWhite/Projects/blob/master/images/Mapa%20przypadk%C3%B3w%20sklepu%20deichmann.jpg)**
 - **[Przypadki testowe](https://github.com/KamilaWhite/Projects/tree/master/test-cases)**
-  - [Tworzenie konta użytkownika](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Tworzenie%20konta%20u%C5%BCytkownika.md)
-  - [Logowanie do konta](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Logowanie%20do%20konta.md)
-  - [Filtr produktów](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Filtr%20produktow.md)
-  - [Usuwanie zaznaczonych filtrów](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Usuwanie%20zaznaczonych%20filtr%C3%B3w.md)
-  - [Dodawanie artykułów do koszyka](https://github.com/KamilaWhite/Projects/blob/master/test-cases/Dodawanie%20do%20koszyka.md)
+  - [Tworzenie konta użytkownika](https://github.com/KamilaWhite/Projects/blob/master/projects/test-cases/Tworzenie%20konta%20u%C5%BCytkownika.md)
+  - [Logowanie do konta](https://github.com/KamilaWhite/Projects/blob/master/projects/test-cases/Logowanie%20do%20konta.md)
+  - [Filtr produktów](https://github.com/KamilaWhite/Projects/blob/master/projects/test-cases/Filtr%20produktow.md)
+  - [Usuwanie zaznaczonych filtrów](https://github.com/KamilaWhite/Projects/blob/master/projects/test-cases/Usuwanie%20zaznaczonych%20filtr%C3%B3w.md)
+  - [Dodawanie artykułów do koszyka](https://github.com/KamilaWhite/Projects/blob/master/projects/test-cases/Dodawanie%20do%20koszyka.md)
 - **[Zgłoszenia błędów sklepu deichmann.com](https://github.com/KamilaWhite/Projects/tree/master/projects/deichmann.md)**
   - [Pole “ Data urodzenia” w rejestracji jest opcjonalna, decydując się na jej podanie klient musi mieć 18 lat](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/BR1.md) 
   - [Aplikacja nie rozpoznaje typu urządzenia, na którym jest wyświetlana strona](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/BR2.md) 
