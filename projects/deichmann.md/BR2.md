@@ -33,6 +33,6 @@ Strona rozpoznaje rodzaj urządzenia na którym wyświetlana jest strona i wyśw
 
 ## Załączniki:
 
-[Link strony przesłanej z telefonu](https://m.deichmann.com/PL/pl/shop/meskie/meskie-buty-meskie.cat?utm_source=tradedoubler&utm_medium=affiliate&utm_campaign=dop-affiliate_Affiliate_Network-ns-tradedoubler_%202906490&affId=2906490&tduid=c3983998a28e8d377a5df8b41dcb5455&partnerid=2906490&material_id=0&aaaid=5eb3312bfcd7d24a077d4e06&ext_publisher_id=2906490)
+[link strony przesłanej z telefonu](https://m.deichmann.com/PL/pl/shop/meskie/meskie-buty-meskie.cat?utm_source=tradedoubler&utm_medium=affiliate&utm_campaign=dop-affiliate_Affiliate_Network-ns-tradedoubler_%202906490&affId=2906490&tduid=c3983998a28e8d377a5df8b41dcb5455&partnerid=2906490&material_id=0&aaaid=5eb3312bfcd7d24a077d4e06&ext_publisher_id=2906490)
 
-[Nagranie błędu](https://drive.google.com/open?id=1JpB7XxiDUrc1duKDUwQ6_W1u2OdmGPiF)
+[nagranie błędu](https://drive.google.com/open?id=1JpB7XxiDUrc1duKDUwQ6_W1u2OdmGPiF)
