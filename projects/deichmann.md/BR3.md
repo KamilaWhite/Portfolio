@@ -17,7 +17,7 @@ W koszyku znajduje się przynajmniej jeden dowolny artykuł.
  
 ## STR:
  
-**1.** Kliknij ikonę “koszyk” znajdującą się na górnej belce stronygłównej.
+**1.** Kliknij ikonę “koszyk” znajdującą się na górnej belce strony głównej.
  
 **2.** Zwróć uwagę na ikonę “+” w lewym dolnym rogu grafiki artykułu w koszyku.
  
@@ -26,7 +26,7 @@ W koszyku znajduje się przynajmniej jeden dowolny artykuł.
 **4.** Najedź kursorem na ikonę “+” w lewym dolnym rogu artykułu.
  
 ## Rzeczywisty rezultat:
-Ikona “+” daje błędnie przekonanie, że służy do dodawaia większej ilości produktów. W rzeczywistości zwiększa widok grafiki artykułu, ten sam efekt uzyskuje się najeżdżając kursorem na dowolny punkt całej grafiki.
+Ikona “+” daje błędne przekonanie, że służy do dodawaia większej ilości produktów. W rzeczywistości zwiększa widok grafiki artykułu, ten sam efekt uzyskuje się najeżdżając kursorem na dowolny punkt całej grafiki.
  
 ## Oczekiwany rezultat:
 Ikona służąca powiększaniu zdjęcia ma kształt lupy.
@@ -34,6 +34,6 @@ Ikona służąca powiększaniu zdjęcia ma kształt lupy.
 ## Załączniki:
  
  
-[Screen Ikony](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/screen/Zrzut%20ekranu%202020-05-7%20o%2019.30.02.png)
+[Screen ikony](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/screen/Zrzut%20ekranu%202020-05-7%20o%2019.30.02.png)
  
 [Screen klasy](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/screen/Zrzut%20ekranu%202020-05-7%20o%2018.57.21.png)

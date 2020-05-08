@@ -1,4 +1,4 @@
-# Aplikacja nie rozpoznaje typu urządzenia, na którym jest wyświetlana strona
+# Strona nie rozpoznaje typu urządzenia, na którym jest wyświetlana
 
 ## Priorytet: 
 Wysoki
@@ -9,7 +9,7 @@ macOS Catalina 10.15.3; Google Chrome Wersja 80.0.3987.122;
 iOS: Oprogramowanie: 13.3.1; Przeglądarka: Safari
 
 ## Opis: 
-Klikając na komputerze link przesłany z telefonu strony głównej deichmann.com, na ekranie widać wersję mobilną aplikacji, a w adresie URL strony widnieje https://m.deichmann.com/PL/pl/shop/welcome.html. Zamknięcie zakładki czy całego okna przeglądarki nie usuwa błędu, nowo otwarta strona nadal wyświetla się w wersji mobilnej. Usunięcie w aplikacji ciasteczek także nie wyłącza błędu. Jedynie usunięcie historii przeglądarki sprawia, że ponowne otwarcie strony wyświetla ją w poprawnej wersji.
+Klikając na komputerze link przesłany z telefonu strony głównej deichmann.com, na ekranie widać wersję mobilną aplikacji, a w adresie URL strony widnieje https://m.deichmann.com/PL/pl/shop/welcome.html. Zamknięcie zakładki czy całego okna przeglądarki nie usuwa błędu, nowo otwarta strona nadal wyświetla się w wersji mobilnej. Usunięcie na stronie ciasteczek także nie wyłącza błędu. Jedynie usunięcie historii przeglądarki sprawia, że ponowne otwarcie strony wyświetla ją w poprawnej wersji.
 
 ## Warunki wstępne: 
 Z telefonu wyślij link na pc https://www.deichmann.com
@@ -29,7 +29,7 @@ Z telefonu wyślij link na pc https://www.deichmann.com
 Otwarcie linku wysłanego z telefonu sprawia że strona wyświetla się na komputerze w wersji mobilnej.
 
 ## Oczekiwany rezultat: 
-Aplikacja rozpoznaje rodzaj urządzenia na którym wyświetlana jest strona i wuświetla ją poprawnia.
+Strona rozpoznaje rodzaj urządzenia na którym wyświetlana jest strona i wyświetla ją poprawnia.
 
 ## Załączniki:
 
