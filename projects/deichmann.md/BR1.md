@@ -1,4 +1,4 @@
-# Pole “ Data urodzenia” w rejestracji jest opcjonalna, decydując się na jej podanie klient musi mieć 18 lat
+# Pole “Data urodzenia” w rejestracji jest opcjonalna, decydując się na jej podanie klient musi mieć 18 lat
 
 ## Priorytet: 
 Wysoki

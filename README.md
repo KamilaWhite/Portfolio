@@ -17,7 +17,7 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
   - [Usuwanie zaznaczonych filtrów](https://github.com/KamilaWhite/Projects/blob/master/projects/test-cases/Usuwanie%20zaznaczonych%20filtr%C3%B3w.md)
   - [Dodawanie artykułów do koszyka](https://github.com/KamilaWhite/Projects/blob/master/projects/test-cases/Dodawanie%20do%20koszyka.md)
 - **[Zgłoszenia błędów sklepu deichmann.com](https://github.com/KamilaWhite/Projects/tree/master/projects/deichmann.md)**
-  - [Pole “ Data urodzenia” w rejestracji jest opcjonalna, decydując się na jej podanie klient musi mieć 18 lat](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/BR1.md) 
+  - [Pole “Data urodzenia” w rejestracji jest opcjonalna, decydując się na jej podanie klient musi mieć 18 lat](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/BR1.md) 
   - [Strona nie rozpoznaje typu urządzenia, na którym jest wyświetlana](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/BR2.md) 
   - [Nieprawidłowy kształt ikony powiększającej grafikę w zakładce Koszyk](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/BR3.md)
 
