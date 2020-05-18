@@ -5,7 +5,7 @@ Tytuł  | Warunki wstępne | Kroki | Oczekiwany rezultat
 Filtrowanie obuwia damskiego po cenie| | |
 || Otwarta strona główna deichmann.com/PL/pl/shop/welcome.html | |
 | | | 1. Kliknij obuwie "Damskie" | Otwarta zakładka z damskimi butami, po lewej stronie widać filtry
-| | | 2. Wybierz filtr po cenie - >= 200.00 | Na stronie jest 241 artykułów o wybranym kryterium
+| | | 2. Wybierz filtr po cenie - >= 200.00 | Na stronie jest 200 lub więcej artykułów o wybranym kryterium
   
 Tytuł  | Warunki wstępne | Kroki | Oczekiwany rezultat
 ------------- | ------------- | --- | ---

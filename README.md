@@ -1,7 +1,7 @@
 ## Kilka słów o sobie
 Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą otwartą na nowe kontakty i nowe doświadczenia. W pracy i życiu codziennym kieruję się pracowitością, skrupulatnością oraz cechuje mnie dociekliwość. Jako mama, jestem osobą cierpliwą i asertywną, posiadającą wiele empatii. Stosunkowo niedawno zainteresowałam się Branżą Testerską jednak bardzo wciągnęła mnie cała jej tematyka. Moja wiedza i doświadczenie nabiera co raz większego rozmachu, nie zadowalam się tym czego się już nauczyłam, ciągle chcę więcej.
  
- Mam nadzieję, że ten Projekt zobrazuje kilka z moich umiejętności, zbobytą wiedzę i doświadczenie :blush:
+ Mam nadzieję, że ten Projekt zobrazuje kilka z moich umiejętności, zdobytą wiedzę i doświadczenie :blush:
 
 ## Projekty
 - **[Trello - tablica organizacyjna tasków](https://trello.com/invite/b/KqaXd9uY/2ff924e73d0745f08c3fb1eed9000a1a/moje-taski)**
