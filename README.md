@@ -18,6 +18,8 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
   - [Pole “Data urodzenia” w rejestracji jest opcjonalna, decydując się na jej podanie klient musi mieć 18 lat](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/BR1.md) 
   - [Strona nie rozpoznaje typu urządzenia, na którym jest wyświetlana](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/BR2.md) 
   - [Nieprawidłowy kształt ikony powiększającej grafikę w zakładce Koszyk](https://github.com/KamilaWhite/Projects/blob/master/projects/deichmann.md/BR3.md)
+  - **[Plan testów](https://docs.google.com/document/d/1yeh8SXt_hrYrRttNccFTvDZxSRe1Pa9ceFSkbalVFtk/edit?usp=sharing)**
+  - **[Analizy](https://github.com/KamilaWhite/Projects/blob/master/projects/analizy.md)**
 
 ## Stosowane narzędzia
 - **Jira, Trello, Asana, TestLink** - Programy służące rejestrowaniu i zarządzaniu informacjami o błędach
