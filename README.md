@@ -41,11 +41,11 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
 - Opracowanie Planu Testów
 
 ## Certyfikaty i szkolenia
-- [Zostań testerem](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%20i%20szkolenia/Certyfikat-Zosta%C5%84%20Testerem.pdf)
-- [Specjalność programista: Podstawy Pythona](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%20i%20szkolenia/Certyfikat-Podstawy%20Pythona.pdf)
+- [Zostań testerem](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%2C%20szkolenia%2C%20rekomendacje/Certyfikat-Zosta%C5%84%20Testerem.pdf)
+- [Specjalność programista: Podstawy Pythona](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%2C%20szkolenia%2C%20rekomendacje/Certyfikat-Podstawy%20Pythona.pdf)
 
 ## Rekomendacje
-- [Cherry-IT: Projekt Locatick]()
+- [Cherry-IT: Projekt Locatick](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%2C%20szkolenia%2C%20rekomendacje/Za%C5%9Bwiadczenie-Cherry-IT-2.pdf)
 
 ## Przeczytane książki
 - [Radosław Smilgin "Zawód tester"](https://ksiegarnia.pwn.pl/Zawod-tester,138870798,p.html)
