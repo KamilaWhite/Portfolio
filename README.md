@@ -44,6 +44,9 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
 - [Zostań testerem](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%20i%20szkolenia/Certyfikat-Zosta%C5%84%20Testerem.pdf)
 - [Specjalność programista: Podstawy Pythona](https://github.com/KamilaWhite/Projects/blob/master/images/Certyfikaty%20i%20szkolenia/Certyfikat-Podstawy%20Pythona.pdf)
 
+## Rekomendacje
+- [Cherry-IT: Projekt Locatick]()
+
 ## Przeczytane książki
 - [Radosław Smilgin "Zawód tester"](https://ksiegarnia.pwn.pl/Zawod-tester,138870798,p.html)
 - [Jeff Sutherland "Scrum Czyli jak robić dwa razy więcej dwa razy szybciej"](https://ksiegarnia.pwn.pl/Scrum-Czyli-jak-robic-dwa-razy-wiecej-dwa-razy-szybciej,114592110,p.html)
