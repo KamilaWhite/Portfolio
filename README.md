@@ -4,6 +4,7 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
  Mam nadzieję, że ten Projekt zobrazuje kilka z moich umiejętności, zdobytą wiedzę i doświadczenie :blush:
 
 ## Projekty
+- **[Maszyna losująca - program napisany w pythonie](https://github.com/KamilaWhite/losomat)**
 - **[Trello - tablica organizacyjna tasków](https://trello.com/invite/b/KqaXd9uY/2ff924e73d0745f08c3fb1eed9000a1a/moje-taski)**
 
 ## Dokumentacje
