@@ -4,6 +4,7 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
  Mam nadzieję, że ten Projekt zobrazuje kilka z moich umiejętności, zdobytą wiedzę i doświadczenie :blush:
 
 ## Projekty
+- **[Testy automatyczne](https://github.com/KamilaWhite/e2e-cypress)**
 - **[Maszyna losująca - program napisany w pythonie](https://github.com/KamilaWhite/losomat)**
 - **[Trello - tablica organizacyjna tasków](https://trello.com/invite/b/KqaXd9uY/2ff924e73d0745f08c3fb1eed9000a1a/moje-taski)**
 
@@ -27,17 +28,19 @@ Mam na imię Kamila. Praca z ludźmi zawsze była moją pasją. Jestem osobą ot
 - **Git** - System kontroli wersji
 - **Terminal** - Narzędzia przydatne w pracy testera
 - **Miro** - Narzędzie służące tworzeniu mapy myśli
-- **Slack** - Narzędzia służące komunikacji w zespole
+- **Teams, Slack** - Narzędzia służące komunikacji w zespole
 
 ## Umiejętności techniczne
-- SQL
-- Python - podstawy
-- GitHub
-- SCRUM
 - Testowanie aplikacji
 - Tworzenie przypadków testowych
-- Mapowanie myśli
 - Raportowanie błędów
+- Automatyzacja testów w frameworku Cypress
+- Python - podstawy
+- GitLab, GitHub
+- SCRUMGitLab, GitHub
+- SCRUM
+- Mapowanie myśli
+- SQL
 - Tworzenie analizy strony www
 - Opracowanie Planu Testów
 
